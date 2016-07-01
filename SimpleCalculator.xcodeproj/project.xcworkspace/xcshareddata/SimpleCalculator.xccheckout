@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F3483D4-B67D-4CB8-85A7-6D2476C6CE3D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>924CF450-491D-49A6-8C3D-1BCB95D242DD</key>
+		<string>https://github.com/marciechiri/Simplecalc-mercy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleCalculator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>924CF450-491D-49A6-8C3D-1BCB95D242DD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/marciechiri/Simplecalc-mercy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>924CF450-491D-49A6-8C3D-1BCB95D242DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>924CF450-491D-49A6-8C3D-1BCB95D242DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Simplecalc-mercy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
